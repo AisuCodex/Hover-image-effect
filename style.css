@@ -36,8 +36,8 @@ body{
 }
 .img-container img{
   width: 100%;
-  border-radius: 10px;
   height: 100%;
+  rad
 }
 .text-container{
   display: flex;
