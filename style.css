@@ -23,6 +23,7 @@ body{
   border-radius: 10px;
 }
 .child{
+  overflow: hidden;
   width: 300px;
   border-radius: 10px;
   background-color: #353935;
